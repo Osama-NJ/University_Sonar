@@ -1,6 +1,6 @@
 <h1 align="center"> University Sonar </h1> 
 <p align="center">
-  <img src="https://github.com/Osama-NJ/University-Sonar/blob/main/img/dev_exp_share-logo.png" />
+  <img src="https://github.com/Osama-NJ/University_Sonar/blob/main/Green_button.png" width = 230 />
 </p>
 
 ### Requirements:
